@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReidH20
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any java projects to help further my understanding of the language
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any Python projects to help further my understanding of the language
 - 📫 How to reach me: reidhoward@outlook.com
 - 😄 Pronouns: He/Him
 
